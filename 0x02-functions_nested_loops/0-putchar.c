@@ -8,6 +8,8 @@
  * Return: 0 (Success)
  */
 
+
+
 int main(void)
 {
 	char text[9] = "_putchar";
