@@ -6,6 +6,7 @@
  * @n: An input integer
  * Return: Always 0
  */
+
 void print_line(int n)
 {
 	int i = 0;
