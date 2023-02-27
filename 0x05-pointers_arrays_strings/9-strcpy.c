@@ -8,6 +8,7 @@
  * the buffer pointed to by 'dest'
  * Return: Pointer to 'dest'
  */
+
 char *_strcpy(char *dest, char *src)
 {
 	int i = -1;
