@@ -6,6 +6,7 @@
  * @n: array's length.
  */
 
+
 void reverse_array(int *a, int n)
 {
 	int i, j, tmp;
