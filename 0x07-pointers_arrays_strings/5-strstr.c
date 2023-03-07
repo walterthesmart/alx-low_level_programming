@@ -7,6 +7,7 @@
  * Return: pointer to first char of matching substring
  */
 
+
 char *_strstr(char *haystack, char *needle)
 {
 	int k;
