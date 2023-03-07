@@ -7,6 +7,7 @@
  * Return: pointer to matching char
  */
 
+
 char *_strpbrk(char *s, char *accept)
 {
 	unsigned int i, j;
