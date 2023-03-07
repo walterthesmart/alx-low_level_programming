@@ -7,6 +7,7 @@
  * Return: length of prefix substring
  */
 
+
 unsigned int _strspn(char *s, char *accept)
 {
 	unsigned int i, j, a_len = 0, len = 0;
