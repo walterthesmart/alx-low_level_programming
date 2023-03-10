@@ -8,6 +8,7 @@
  * Return: On success 1.
  * On error, -1 is returned, and errno is set appropriately.
  */
+
 int sqrt2(int a, int b)
 {
 	if (b * b == a)
