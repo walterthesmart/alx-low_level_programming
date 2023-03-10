@@ -8,6 +8,7 @@
  * On error, -1 is returned, and errno is set appropriately.
  */
 
+
 int _strlen_recursion(char *s)
 {
 	if (*s != '\0')
