@@ -1,6 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 
+
 /**
  * _strdup - allocate a string.
  * @str: string.
