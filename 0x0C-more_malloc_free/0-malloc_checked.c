@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include "main.h"
 
+
 /**
  * *malloc_checked - allocate memory
  * @b: number of bytes to allocate
