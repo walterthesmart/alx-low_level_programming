@@ -8,6 +8,7 @@
  *
  * Return: Always return 0.
  */
+
 int main(void)
 {
     list_t *head;
