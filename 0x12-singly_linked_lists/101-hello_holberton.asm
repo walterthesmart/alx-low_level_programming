@@ -8,6 +8,7 @@ main
 	mov rax, 1		;write
 	syscall
 
+
 	mov eax, 60
 	xor rdi, rdi
 	syscall
