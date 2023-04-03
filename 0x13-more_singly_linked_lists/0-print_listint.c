@@ -6,6 +6,7 @@
  * Return: number of elements
  */
 
+
 size_t print_listint(const listint_t *h)
 {
 	int i;
