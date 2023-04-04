@@ -5,6 +5,7 @@
  * @h: data type listint_t double pointer of head
  * Return: the size of the list that was free'd
  */
+
 size_t free_listint_safe(listint_t **h)
 {
         size_t counter = 0;
