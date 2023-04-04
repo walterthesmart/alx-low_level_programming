@@ -6,6 +6,7 @@
  * @head: data type double pointer the head/next node
  * Return: new_node
  */
+
 size_t print_listint_safe(const listint_t *head)
 {
 	const listint_t *tmp_n = NULL;
