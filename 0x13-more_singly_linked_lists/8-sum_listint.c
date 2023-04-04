@@ -4,6 +4,7 @@
  * @head: Pointer to the first element of a list
  * Return: An integer representing the sum of values
  */
+
 int sum_listint(listint_t *head)
 {
 	int sum;
