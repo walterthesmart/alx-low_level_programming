@@ -4,10 +4,11 @@
 #include "lists.h"
 
 /**
- * main - check the code
+ * main - check the codes
  *
  * Return: Always return 0.
  */
+
 
 int main(void)
 {
